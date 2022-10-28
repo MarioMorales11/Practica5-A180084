@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\wamp64\www\Practica5-A180084\XSL.xsl"?>
+<juegos>
+  <juego>
+    <nombre>Minecraft</nombre>
+    <venta>238 millones</venta>
+  </juego>
+  <juego>
+    <nombre>Grand Theft Auto V</nombre>
+    <venta>169 millones</venta>
+  </juego>
+  <juego>
+    <nombre>Tetris</nombre>
+    <venta>100 millones</venta>
+  </juego>
+  <juego>
+    <nombre>Wii Sports</nombre>
+    <venta>82.9 millones</venta>
+  </juego>
+  <juego>
+    <nombre>PUBG</nombre>
+    <venta>75 millones</venta>
+  </juego>
+</juegos>
